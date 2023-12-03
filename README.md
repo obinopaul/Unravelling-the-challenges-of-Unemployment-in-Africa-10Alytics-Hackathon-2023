@@ -11,7 +11,7 @@ This project employs a comprehensive, data-driven approach to analyze unemployme
 
 ## Entry by: Paul Okafor
 ---
-## [View Notebook]( )
+## [View Notebook](https://nbviewer.org/github/obinopaul/Unravelling-the-challenges-of-Unemployment-in-Africa-10Alytics-Hackathon-2023/blob/main/Paul_hackathon.ipynb)
 
 <p align="center">
   <img src="Images/ab.png" alt="Alt text" width="500" height="300">
